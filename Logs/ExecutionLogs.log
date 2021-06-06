@@ -1,0 +1,538 @@
+2021-06-02 20:13:17 INFO  For Loop Output:8 - The Execution of For Loop Starts Here!!!!!
+2021-06-02 20:13:17 INFO  For Loop Output:12 - The Even Number is :20
+2021-06-02 20:13:17 INFO  For Loop Output:12 - The Even Number is :22
+2021-06-02 20:13:17 INFO  For Loop Output:12 - The Even Number is :24
+2021-06-02 20:13:17 INFO  For Loop Output:12 - The Even Number is :26
+2021-06-02 20:13:17 INFO  For Loop Output:12 - The Even Number is :28
+2021-06-02 20:13:17 INFO  For Loop Output:12 - The Even Number is :30
+2021-06-02 20:13:17 INFO  For Loop Output:12 - The Even Number is :32
+2021-06-02 20:13:17 INFO  For Loop Output:12 - The Even Number is :34
+2021-06-02 20:13:17 INFO  For Loop Output:12 - The Even Number is :36
+2021-06-02 20:13:17 INFO  For Loop Output:12 - The Even Number is :38
+2021-06-02 20:13:17 INFO  For Loop Output:12 - The Even Number is :40
+2021-06-02 20:13:17 INFO  For Loop Output:15 - The Execution of For Loop ends Here!!!!!
+2021-06-03 17:20:09 INFO  For Loop Output:32 - successfully launched chrome browser
+2021-06-03 17:20:09 INFO  For Loop Output:35 - The window has been maximised
+2021-06-03 17:20:13 INFO  For Loop Output:49 - actitime software has been navigated to
+2021-06-03 17:20:20 INFO  For Loop Output:94 - the chromebrowser has been closed
+2021-06-03 17:20:47 INFO  For Loop Output:32 - successfully launched chrome browser
+2021-06-03 17:20:47 INFO  For Loop Output:35 - The window has been maximised
+2021-06-03 17:21:30 INFO  For Loop Output:49 - actitime software has been navigated to
+2021-06-03 17:21:37 INFO  For Loop Output:67 - username entered
+2021-06-03 17:21:37 INFO  For Loop Output:70 - password entered
+2021-06-03 17:21:37 INFO  For Loop Output:72 - logged in to the actitime software
+2021-06-03 17:21:50 INFO  For Loop Output:76 - the fluout window has been minimised
+2021-06-03 17:22:00 INFO  For Loop Output:94 - the chromebrowser has been closed
+2021-06-03 17:35:52 INFO  For Loop Output:32 - successfully launched chrome browser
+2021-06-03 17:35:52 INFO  For Loop Output:35 - The window has been maximised
+2021-06-03 17:36:01 INFO  For Loop Output:49 - actitime software has been navigated to
+2021-06-03 17:36:08 INFO  For Loop Output:67 - username entered
+2021-06-03 17:36:08 INFO  For Loop Output:70 - password entered
+2021-06-03 17:36:09 INFO  For Loop Output:72 - logged in to the actitime software
+2021-06-03 17:36:19 INFO  For Loop Output:76 - the fluout window has been minimised
+2021-06-03 17:36:26 INFO  For Loop Output:94 - the chromebrowser has been closed
+2021-06-03 17:50:35 INFO  For Loop Output:22 - successfully launched chrome browser
+2021-06-03 17:50:35 INFO  For Loop Output:24 - The window has been maximised
+2021-06-03 17:50:46 INFO  For Loop Output:37 - navigated successfully
+2021-06-03 17:50:49 INFO  For Loop Output:51 - username entered
+2021-06-03 17:50:49 INFO  For Loop Output:53 - password entered
+2021-06-03 17:50:54 INFO  For Loop Output:68 - the fluout window has been minimised
+2021-06-03 17:51:09 INFO  For Loop Output:156 - Application closed successfully
+2021-06-03 17:51:49 INFO  For Loop Output:32 - successfully launched chrome browser
+2021-06-03 17:51:49 INFO  For Loop Output:35 - The window has been maximised
+2021-06-03 17:51:53 INFO  For Loop Output:49 - actitime software has been navigated to
+2021-06-03 17:52:00 INFO  For Loop Output:67 - username entered
+2021-06-03 17:52:00 INFO  For Loop Output:70 - password entered
+2021-06-03 17:52:00 INFO  For Loop Output:72 - logged in to the actitime software
+2021-06-03 17:52:10 INFO  For Loop Output:76 - the fluout window has been minimised
+2021-06-03 17:52:18 INFO  For Loop Output:94 - the chromebrowser has been closed
+2021-06-03 18:00:27 INFO  For Loop Output:32 - successfully launched chrome browser
+2021-06-03 18:00:28 INFO  For Loop Output:35 - The window has been maximised
+2021-06-03 18:00:34 INFO  For Loop Output:49 - actitime software has been navigated to
+2021-06-03 18:00:40 INFO  For Loop Output:67 - username entered
+2021-06-03 18:00:40 INFO  For Loop Output:70 - password entered
+2021-06-03 18:00:40 INFO  For Loop Output:72 - logged in to the actitime software
+2021-06-03 18:00:50 INFO  For Loop Output:76 - the fluout window has been minimised
+2021-06-03 18:01:25 INFO  For Loop Output:122 - user has been created with all the required information
+2021-06-03 18:01:37 INFO  For Loop Output:163 - user has been modified
+2021-06-03 18:01:48 INFO  For Loop Output:142 - user has been deleted successfully
+2021-06-03 18:01:50 INFO  For Loop Output:94 - the chromebrowser has been closed
+2021-06-03 18:20:31 INFO  For Loop Output:21 - successfully launched chrome browser
+2021-06-03 18:20:33 INFO  For Loop Output:23 - The window has been maximised
+2021-06-03 18:20:37 INFO  For Loop Output:36 - navigated successfully
+2021-06-03 18:20:39 INFO  For Loop Output:50 - username entered
+2021-06-03 18:20:39 INFO  For Loop Output:52 - password entered
+2021-06-03 18:20:44 INFO  For Loop Output:67 - the fluout window has been minimised
+2021-06-03 18:20:52 INFO  For Loop Output:86 - first name entered
+2021-06-03 18:20:54 INFO  For Loop Output:89 - last name entered
+2021-06-03 18:20:56 INFO  For Loop Output:93 - email address entered
+2021-06-03 18:20:56 INFO  For Loop Output:95 - username entered
+2021-06-03 18:20:57 INFO  For Loop Output:98 - Password entered
+2021-06-03 18:20:59 INFO  For Loop Output:101 - confimepassword entered
+2021-06-03 18:21:06 INFO  For Loop Output:155 - Application closed successfully
+2021-06-03 18:29:58 INFO  For Loop Output:33 - successfully launched chrome browser
+2021-06-03 18:29:59 INFO  For Loop Output:35 - The window has been maximised
+2021-06-03 18:30:12 INFO  For Loop Output:48 - navigated successfully
+2021-06-03 18:30:14 INFO  For Loop Output:62 - username entered
+2021-06-03 18:30:14 INFO  For Loop Output:64 - password entered
+2021-06-03 18:30:27 INFO  For Loop Output:137 - user has been deleted successfully
+2021-06-03 18:30:28 INFO  For Loop Output:167 - Application closed successfully
+2021-06-03 21:13:04 INFO  For Loop Output:21 - successfully launched chrome browser
+2021-06-03 21:13:20 INFO  For Loop Output:35 - successfully navigated
+2021-06-03 21:13:23 INFO  For Loop Output:49 - user name entered
+2021-06-03 21:13:23 INFO  For Loop Output:51 - password entered
+2021-06-03 21:13:23 INFO  For Loop Output:53 - login button clicked successfully
+2021-06-03 21:13:29 INFO  For Loop Output:67 - Fly Window Minimized successfully
+2021-06-03 21:13:45 INFO  For Loop Output:98 - user created successfully
+2021-06-03 21:13:51 INFO  For Loop Output:150 - application closed successfully
+2021-06-03 21:20:51 INFO  For Loop Output:20 - successfully launched chrome browser
+2021-06-03 21:21:04 INFO  For Loop Output:34 - successfully navigated
+2021-06-03 21:21:07 INFO  For Loop Output:48 - user name entered
+2021-06-03 21:21:07 INFO  For Loop Output:50 - password entered
+2021-06-03 21:21:08 INFO  For Loop Output:52 - login button clicked successfully
+2021-06-03 21:21:23 INFO  For Loop Output:66 - Fly Window Minimized successfully
+2021-06-03 21:21:42 INFO  For Loop Output:97 - user created successfully
+2021-06-03 21:21:47 INFO  For Loop Output:119 -  user deleted successfully
+2021-06-03 21:21:49 INFO  For Loop Output:134 - Logout successfull
+2021-06-03 21:21:50 INFO  For Loop Output:149 - application closed successfully
+2021-06-03 22:49:54 INFO  For Loop Output:21 - Browser Lauched successfully
+2021-06-03 22:50:18 INFO  For Loop Output:35 - navigated successfully
+2021-06-03 22:50:20 INFO  For Loop Output:49 - username entered
+2021-06-03 22:50:20 INFO  For Loop Output:51 - Password entered
+2021-06-03 22:50:20 INFO  For Loop Output:53 - login button clicked successfull
+2021-06-03 22:50:26 INFO  For Loop Output:67 - fly Window Minimized
+2021-06-03 22:50:40 INFO  For Loop Output:98 - user created successfull
+2021-06-03 22:50:44 INFO  For Loop Output:158 - user delted successfull
+2021-06-03 22:50:47 INFO  For Loop Output:188 - application closed successfull
+2021-06-03 23:53:01 INFO  For Loop Output:20 - successfully launched chrome browser
+2021-06-03 23:53:19 INFO  For Loop Output:34 - successfully navigated
+2021-06-03 23:53:22 INFO  For Loop Output:48 - user name entered
+2021-06-03 23:53:22 INFO  For Loop Output:50 - password entered
+2021-06-03 23:53:22 INFO  For Loop Output:52 - login button clicked successfully
+2021-06-03 23:53:30 INFO  For Loop Output:66 - Fly Window Minimized successfully
+2021-06-03 23:53:46 INFO  For Loop Output:97 - user created successfully
+2021-06-03 23:53:51 INFO  For Loop Output:119 -  user deleted successfully
+2021-06-03 23:53:54 INFO  For Loop Output:149 - application closed successfully
+2021-06-03 23:54:01 INFO  For Loop Output:21 - Browser Lauched successfully
+2021-06-03 23:54:06 INFO  For Loop Output:35 - navigated successfully
+2021-06-03 23:54:08 INFO  For Loop Output:49 - username entered
+2021-06-03 23:54:08 INFO  For Loop Output:51 - Password entered
+2021-06-03 23:54:08 INFO  For Loop Output:53 - login button clicked successfull
+2021-06-03 23:54:13 INFO  For Loop Output:67 - fly Window Minimized
+2021-06-03 23:54:35 INFO  For Loop Output:98 - user created successfull
+2021-06-03 23:54:39 INFO  For Loop Output:158 - user delted successfull
+2021-06-03 23:54:40 INFO  For Loop Output:173 - logout successfull
+2021-06-03 23:54:41 INFO  For Loop Output:188 - application closed successfull
+2021-06-03 23:54:47 INFO  For Loop Output:20 - successfully launched chrome browser
+2021-06-03 23:54:55 INFO  For Loop Output:34 - successfully navigated
+2021-06-03 23:54:57 INFO  For Loop Output:48 - user name entered
+2021-06-03 23:54:57 INFO  For Loop Output:50 - password entered
+2021-06-03 23:54:58 INFO  For Loop Output:52 - login button clicked successfully
+2021-06-03 23:55:02 INFO  For Loop Output:66 - Fly Window Minimized successfully
+2021-06-03 23:55:14 INFO  For Loop Output:97 - user created successfully
+2021-06-03 23:55:21 INFO  For Loop Output:133 -  user modified successfully
+2021-06-03 23:55:22 INFO  For Loop Output:171 - Logout successfull
+2021-06-03 23:55:23 INFO  For Loop Output:186 - application closed successfully
+2021-06-03 23:55:27 INFO  For Loop Output:18 - successfully launched chrome browser
+2021-06-03 23:55:33 INFO  For Loop Output:32 - successfully navigated
+2021-06-03 23:55:35 INFO  For Loop Output:46 - user name entered
+2021-06-03 23:55:35 INFO  For Loop Output:48 - password entered
+2021-06-03 23:55:35 INFO  For Loop Output:50 - login button clicked successfully
+2021-06-03 23:55:39 INFO  For Loop Output:64 - Fly Window Minimized successfully
+2021-06-03 23:55:59 INFO  For Loop Output:169 -  application closed successfully
+2021-06-04 11:10:53 INFO  Output For First HomeWork:19 - The Execution of First HomeWork Starts Here!!!!!
+2021-06-04 11:11:11 INFO  Output For First HomeWork:22 - successfully launched chrome browser
+2021-06-04 11:11:19 INFO  Output For First HomeWork:36 - successfully navigated
+2021-06-04 11:11:22 INFO  Output For First HomeWork:50 - user name entered
+2021-06-04 11:11:22 INFO  Output For First HomeWork:52 - password entered
+2021-06-04 11:11:22 INFO  Output For First HomeWork:54 - login button clicked successfully
+2021-06-04 11:11:27 INFO  Output For First HomeWork:68 - Fly Window Minimized successfully
+2021-06-04 11:11:41 INFO  Output For First HomeWork:99 - user created successfully
+2021-06-04 11:11:55 INFO  Output For First HomeWork:151 - application closed successfully
+2021-06-04 11:11:55 INFO  Output For First HomeWork:152 - The Execution of First HomeWork ends Here!!!!!
+2021-06-04 11:11:55 INFO  Output for second HomeWork:19 - The Execution of second HomeWork Starts Here!!!!!
+2021-06-04 11:13:02 INFO  Output For First HomeWork:19 - The Execution of First HomeWork Starts Here!!!!!
+2021-06-04 11:13:04 INFO  Output For First HomeWork:22 - successfully launched chrome browser
+2021-06-04 11:13:07 INFO  Output For First HomeWork:36 - successfully navigated
+2021-06-04 11:13:09 INFO  Output For First HomeWork:50 - user name entered
+2021-06-04 11:13:09 INFO  Output For First HomeWork:52 - password entered
+2021-06-04 11:13:10 INFO  Output For First HomeWork:54 - login button clicked successfully
+2021-06-04 11:13:14 INFO  Output For First HomeWork:68 - Fly Window Minimized successfully
+2021-06-04 11:13:34 INFO  Output For First HomeWork:99 - user created successfully
+2021-06-04 11:13:40 INFO  Output For First HomeWork:121 -  user deleted successfully
+2021-06-04 11:13:41 INFO  Output For First HomeWork:136 - Logout successfull
+2021-06-04 11:13:42 INFO  Output For First HomeWork:151 - application closed successfully
+2021-06-04 11:13:42 INFO  Output For First HomeWork:152 - The Execution of First HomeWork ends Here!!!!!
+2021-06-04 11:13:42 INFO  Output for second HomeWork:19 - The Execution of second HomeWork Starts Here!!!!!
+2021-06-04 11:13:44 INFO  Output for second HomeWork:22 - Browser Lauched successfully
+2021-06-04 11:13:47 INFO  Output for second HomeWork:36 - navigated successfully
+2021-06-04 11:13:49 INFO  Output for second HomeWork:50 - username entered
+2021-06-04 11:13:49 INFO  Output for second HomeWork:52 - Password entered
+2021-06-04 11:13:49 INFO  Output for second HomeWork:54 - login button clicked successfull
+2021-06-04 11:13:53 INFO  Output for second HomeWork:68 - fly Window Minimized
+2021-06-04 11:14:04 INFO  Output for second HomeWork:99 - user created successfull
+2021-06-04 11:14:11 INFO  Output for second HomeWork:136 - user modified successfull
+2021-06-04 11:14:14 INFO  Output for second HomeWork:159 - user delted successfull
+2021-06-04 11:14:14 INFO  Output for second HomeWork:174 - logout successfull
+2021-06-04 11:14:16 INFO  Output for second HomeWork:189 - application closed successfull
+2021-06-04 11:14:16 INFO  Output for second HomeWork:190 - The Execution of second HomeWork ends Here!!!!!
+2021-06-04 11:14:16 INFO  Output for third HomeWork:18 - The Execution of Third HomeWork Starts Here!!!!!
+2021-06-04 11:14:17 INFO  Output for third HomeWork:21 - successfully launched chrome browser
+2021-06-04 11:14:21 INFO  Output for third HomeWork:35 - successfully navigated
+2021-06-04 11:14:23 INFO  Output for third HomeWork:49 - user name entered
+2021-06-04 11:14:24 INFO  Output for third HomeWork:51 - password entered
+2021-06-04 11:14:24 INFO  Output for third HomeWork:53 - login button clicked successfully
+2021-06-04 11:14:28 INFO  Output for third HomeWork:67 - Fly Window Minimized successfully
+2021-06-04 11:14:38 INFO  Output for third HomeWork:98 - user created successfully
+2021-06-04 11:14:45 INFO  Output for third HomeWork:134 - user modified successfully
+2021-06-04 11:14:47 INFO  Output for third HomeWork:157 - user deleted successfully
+2021-06-04 11:14:48 INFO  Output for third HomeWork:172 - Logout successfull
+2021-06-04 11:14:49 INFO  Output for third HomeWork:187 - application closed successfully
+2021-06-04 11:14:49 INFO  Output for third HomeWork:188 - The Execution of third HomeWork Starts Here!!!!!
+2021-06-04 11:14:49 INFO  Output for third HomeWork:189 - ---------------------------------------------------
+2021-06-04 11:14:49 INFO  OutPut for Fourth HomeWork:16 - The Execution of Fourth HomeWork Starts Here!!!!!
+2021-06-04 11:14:51 INFO  OutPut for Fourth HomeWork:19 - successfully launched chrome browser
+2021-06-04 11:14:55 INFO  OutPut for Fourth HomeWork:33 - successfully navigated
+2021-06-04 11:14:57 INFO  OutPut for Fourth HomeWork:47 - user name entered
+2021-06-04 11:14:57 INFO  OutPut for Fourth HomeWork:49 - password entered
+2021-06-04 11:14:57 INFO  OutPut for Fourth HomeWork:51 - login button clicked successfully
+2021-06-04 11:15:01 INFO  OutPut for Fourth HomeWork:65 - Fly Window Minimized successfully
+2021-06-04 11:15:10 INFO  OutPut for Fourth HomeWork:90 - customer created successfully
+2021-06-04 11:15:15 INFO  OutPut for Fourth HomeWork:170 - application closed successfully
+2021-06-04 11:15:15 INFO  OutPut for Fourth HomeWork:171 - The Execution of First HomeWork ends Here!!!!!
+2021-06-04 11:15:15 INFO  OutPut for Fourth HomeWork:172 - -------------------------------------------------
+2021-06-04 11:30:34 INFO  Output For First HomeWork:19 - The Execution of First HomeWork Starts Here!!!!!
+2021-06-04 11:30:38 INFO  Output For First HomeWork:22 - successfully launched chrome browser
+2021-06-04 11:30:46 INFO  Output For First HomeWork:36 - successfully navigated
+2021-06-04 11:30:48 INFO  Output For First HomeWork:50 - user name entered
+2021-06-04 11:30:48 INFO  Output For First HomeWork:52 - password entered
+2021-06-04 11:30:48 INFO  Output For First HomeWork:54 - login button clicked successfully
+2021-06-04 11:30:53 INFO  Output For First HomeWork:68 - Fly Window Minimized successfully
+2021-06-04 11:31:09 INFO  Output For First HomeWork:99 - user created successfully
+2021-06-04 11:31:14 INFO  Output For First HomeWork:121 - user deleted successfully
+2021-06-04 11:31:15 INFO  Output For First HomeWork:136 - Logout successfull
+2021-06-04 11:31:17 INFO  Output For First HomeWork:151 - application closed successfully
+2021-06-04 11:31:17 INFO  Output For First HomeWork:152 - The Execution of First HomeWork ends Here!!!!!
+2021-06-04 11:31:37 INFO  Output for second HomeWork:19 - The Execution of second HomeWork Starts Here!!!!!
+2021-06-04 11:31:40 INFO  Output for second HomeWork:22 - Browser Lauched successfully
+2021-06-04 11:31:44 INFO  Output for second HomeWork:36 - navigated successfully
+2021-06-04 11:31:46 INFO  Output for second HomeWork:50 - username entered
+2021-06-04 11:31:46 INFO  Output for second HomeWork:52 - Password entered
+2021-06-04 11:31:46 INFO  Output for second HomeWork:54 - login button clicked successfull
+2021-06-04 11:31:50 INFO  Output for second HomeWork:68 - fly Window Minimized
+2021-06-04 11:32:02 INFO  Output for second HomeWork:99 - user created successfull
+2021-06-04 11:32:08 INFO  Output for second HomeWork:136 - user modified successfull
+2021-06-04 11:32:11 INFO  Output for second HomeWork:159 - user delted successfull
+2021-06-04 11:32:12 INFO  Output for second HomeWork:174 - logout successfull
+2021-06-04 11:32:13 INFO  Output for second HomeWork:189 - application closed successfull
+2021-06-04 11:32:13 INFO  Output for second HomeWork:190 - The Execution of second HomeWork ends Here!!!!!
+2021-06-04 11:32:26 INFO  Output for third HomeWork:18 - The Execution of Third HomeWork Starts Here!!!!!
+2021-06-04 11:32:31 INFO  Output for third HomeWork:21 - successfully launched chrome browser
+2021-06-04 11:32:35 INFO  Output for third HomeWork:35 - successfully navigated
+2021-06-04 11:32:37 INFO  Output for third HomeWork:49 - user name entered
+2021-06-04 11:32:37 INFO  Output for third HomeWork:51 - password entered
+2021-06-04 11:32:37 INFO  Output for third HomeWork:53 - login button clicked successfully
+2021-06-04 11:32:41 INFO  Output for third HomeWork:67 - Fly Window Minimized successfully
+2021-06-04 11:32:52 INFO  Output for third HomeWork:98 - user created successfully
+2021-06-04 11:32:58 INFO  Output for third HomeWork:134 - user modified successfully
+2021-06-04 11:33:01 INFO  Output for third HomeWork:157 - user deleted successfully
+2021-06-04 11:33:02 INFO  Output for third HomeWork:172 - Logout successfull
+2021-06-04 11:33:03 INFO  Output for third HomeWork:187 - application closed successfully
+2021-06-04 11:33:03 INFO  Output for third HomeWork:188 - The Execution of third HomeWork Starts Here!!!!!
+2021-06-04 11:33:03 INFO  Output for third HomeWork:189 - ---------------------------------------------------
+2021-06-04 11:35:27 INFO  OutPut for Fourth HomeWork:16 - The Execution of Fourth HomeWork Starts Here!!!!!
+2021-06-04 11:35:31 INFO  OutPut for Fourth HomeWork:19 - successfully launched chrome browser
+2021-06-04 11:35:35 INFO  OutPut for Fourth HomeWork:33 - successfully navigated
+2021-06-04 11:35:37 INFO  OutPut for Fourth HomeWork:47 - user name entered
+2021-06-04 11:35:37 INFO  OutPut for Fourth HomeWork:49 - password entered
+2021-06-04 11:35:37 INFO  OutPut for Fourth HomeWork:51 - login button clicked successfully
+2021-06-04 11:35:41 INFO  OutPut for Fourth HomeWork:65 - Fly Window Minimized successfully
+2021-06-04 11:35:50 INFO  OutPut for Fourth HomeWork:90 - customer created successfully
+2021-06-04 11:35:55 INFO  OutPut for Fourth HomeWork:170 - application closed successfully
+2021-06-04 11:35:55 INFO  OutPut for Fourth HomeWork:171 - The Execution of First HomeWork ends Here!!!!!
+2021-06-04 11:35:55 INFO  OutPut for Fourth HomeWork:172 - -------------------------------------------------
+2021-06-04 11:44:55 INFO  Output for third HomeWork:18 - The Execution of Third HomeWork Starts Here!!!!!
+2021-06-04 11:44:59 INFO  Output for third HomeWork:21 - successfully launched chrome browser
+2021-06-04 11:45:08 INFO  Output for third HomeWork:35 - successfully navigated
+2021-06-04 11:45:10 INFO  Output for third HomeWork:49 - user name entered
+2021-06-04 11:45:10 INFO  Output for third HomeWork:51 - password entered
+2021-06-04 11:45:10 INFO  Output for third HomeWork:53 - login button clicked successfully
+2021-06-04 11:45:14 INFO  Output for third HomeWork:67 - Fly Window Minimized successfully
+2021-06-04 11:45:27 INFO  Output for third HomeWork:98 - user created successfully
+2021-06-04 11:45:36 INFO  Output for third HomeWork:134 - user modified successfully
+2021-06-04 11:45:42 INFO  Output for third HomeWork:157 - user deleted successfully
+2021-06-04 11:45:42 INFO  Output for third HomeWork:172 - Logout successfull
+2021-06-04 11:45:44 INFO  Output for third HomeWork:187 - application closed successfully
+2021-06-04 11:45:44 INFO  Output for third HomeWork:188 - The Execution of third HomeWork Starts Here!!!!!
+2021-06-04 11:45:44 INFO  Output for third HomeWork:189 - ---------------------------------------------------
+2021-06-04 11:46:41 INFO  OutPut for Fourth HomeWork:16 - The Execution of Fourth HomeWork Starts Here!!!!!
+2021-06-04 11:46:44 INFO  OutPut for Fourth HomeWork:19 - successfully launched chrome browser
+2021-06-04 11:46:47 INFO  OutPut for Fourth HomeWork:33 - successfully navigated
+2021-06-04 11:46:50 INFO  OutPut for Fourth HomeWork:47 - user name entered
+2021-06-04 11:46:50 INFO  OutPut for Fourth HomeWork:49 - password entered
+2021-06-04 11:46:50 INFO  OutPut for Fourth HomeWork:51 - login button clicked successfully
+2021-06-04 11:46:54 INFO  OutPut for Fourth HomeWork:65 - Fly Window Minimized successfully
+2021-06-04 11:47:03 INFO  OutPut for Fourth HomeWork:90 - customer created successfully
+2021-06-04 11:47:12 INFO  OutPut for Fourth HomeWork:155 - logout successfull
+2021-06-04 11:47:13 INFO  OutPut for Fourth HomeWork:170 - application closed successfully
+2021-06-04 11:47:13 INFO  OutPut for Fourth HomeWork:171 - The Execution of First HomeWork ends Here!!!!!
+2021-06-04 11:47:13 INFO  OutPut for Fourth HomeWork:172 - -------------------------------------------------
+2021-06-04 11:48:19 INFO  OutPut for Fourth HomeWork:16 - The Execution of Fourth HomeWork Starts Here!!!!!
+2021-06-04 11:48:22 INFO  OutPut for Fourth HomeWork:19 - successfully launched chrome browser
+2021-06-04 11:48:28 INFO  OutPut for Fourth HomeWork:33 - successfully navigated
+2021-06-04 11:48:30 INFO  OutPut for Fourth HomeWork:47 - user name entered
+2021-06-04 11:48:30 INFO  OutPut for Fourth HomeWork:49 - password entered
+2021-06-04 11:48:31 INFO  OutPut for Fourth HomeWork:51 - login button clicked successfully
+2021-06-04 11:48:35 INFO  OutPut for Fourth HomeWork:65 - Fly Window Minimized successfully
+2021-06-04 11:48:44 INFO  OutPut for Fourth HomeWork:90 - customer created successfully
+2021-06-04 11:48:54 INFO  OutPut for Fourth HomeWork:155 - logout successfull
+2021-06-04 11:48:55 INFO  OutPut for Fourth HomeWork:170 - application closed successfully
+2021-06-04 11:48:55 INFO  OutPut for Fourth HomeWork:171 - The Execution of First HomeWork ends Here!!!!!
+2021-06-04 11:48:55 INFO  OutPut for Fourth HomeWork:172 - -------------------------------------------------
+2021-06-04 11:50:04 INFO  OutPut for Fourth HomeWork:16 - The Execution of Fourth HomeWork Starts Here!!!!!
+2021-06-04 11:50:07 INFO  OutPut for Fourth HomeWork:19 - successfully launched chrome browser
+2021-06-04 11:50:11 INFO  OutPut for Fourth HomeWork:33 - successfully navigated
+2021-06-04 11:50:13 INFO  OutPut for Fourth HomeWork:47 - user name entered
+2021-06-04 11:50:13 INFO  OutPut for Fourth HomeWork:49 - password entered
+2021-06-04 11:50:13 INFO  OutPut for Fourth HomeWork:51 - login button clicked successfully
+2021-06-04 11:50:17 INFO  OutPut for Fourth HomeWork:65 - Fly Window Minimized successfully
+2021-06-04 11:50:26 INFO  OutPut for Fourth HomeWork:90 - customer created successfully
+2021-06-04 11:50:47 INFO  OutPut for Fourth HomeWork:140 - customer deleted successfully
+2021-06-04 11:50:47 INFO  OutPut for Fourth HomeWork:155 - logout successfull
+2021-06-04 11:50:49 INFO  OutPut for Fourth HomeWork:170 - application closed successfully
+2021-06-04 11:50:49 INFO  OutPut for Fourth HomeWork:171 - The Execution of First HomeWork ends Here!!!!!
+2021-06-04 11:50:49 INFO  OutPut for Fourth HomeWork:172 - -------------------------------------------------
+2021-06-04 11:51:16 INFO  OutPut for Fourth HomeWork:16 - The Execution of Fourth HomeWork Starts Here!!!!!
+2021-06-04 11:51:19 INFO  OutPut for Fourth HomeWork:19 - successfully launched chrome browser
+2021-06-04 11:51:23 INFO  OutPut for Fourth HomeWork:33 - successfully navigated
+2021-06-04 11:51:25 INFO  OutPut for Fourth HomeWork:47 - user name entered
+2021-06-04 11:51:25 INFO  OutPut for Fourth HomeWork:49 - password entered
+2021-06-04 11:51:25 INFO  OutPut for Fourth HomeWork:51 - login button clicked successfully
+2021-06-04 11:51:30 INFO  OutPut for Fourth HomeWork:65 - Fly Window Minimized successfully
+2021-06-04 11:51:38 INFO  OutPut for Fourth HomeWork:90 - customer created successfully
+2021-06-04 11:51:59 INFO  OutPut for Fourth HomeWork:140 - customer deleted successfully
+2021-06-04 11:51:59 INFO  OutPut for Fourth HomeWork:155 - logout successfull
+2021-06-04 11:52:01 INFO  OutPut for Fourth HomeWork:170 - application closed successfully
+2021-06-04 11:52:01 INFO  OutPut for Fourth HomeWork:171 - The Execution of First HomeWork ends Here!!!!!
+2021-06-04 11:52:01 INFO  OutPut for Fourth HomeWork:172 - -------------------------------------------------
+2021-06-04 11:52:35 INFO  OutPut for Fourth HomeWork:16 - The Execution of Fourth HomeWork Starts Here!!!!!
+2021-06-04 11:52:39 INFO  OutPut for Fourth HomeWork:19 - successfully launched chrome browser
+2021-06-04 11:52:42 INFO  OutPut for Fourth HomeWork:33 - successfully navigated
+2021-06-04 11:52:44 INFO  OutPut for Fourth HomeWork:47 - user name entered
+2021-06-04 11:52:45 INFO  OutPut for Fourth HomeWork:49 - password entered
+2021-06-04 11:52:45 INFO  OutPut for Fourth HomeWork:51 - login button clicked successfully
+2021-06-04 11:52:49 INFO  OutPut for Fourth HomeWork:65 - Fly Window Minimized successfully
+2021-06-04 11:52:57 INFO  OutPut for Fourth HomeWork:90 - customer created successfully
+2021-06-04 11:53:20 INFO  OutPut for Fourth HomeWork:140 - customer deleted successfully
+2021-06-04 11:53:21 INFO  OutPut for Fourth HomeWork:155 - logout successfull
+2021-06-04 11:53:22 INFO  OutPut for Fourth HomeWork:170 - application closed successfully
+2021-06-04 11:53:22 INFO  OutPut for Fourth HomeWork:171 - The Execution of First HomeWork ends Here!!!!!
+2021-06-04 11:53:22 INFO  OutPut for Fourth HomeWork:172 - -------------------------------------------------
+2021-06-04 11:53:57 INFO  OutPut for Fourth HomeWork:16 - The Execution of Fourth HomeWork Starts Here!!!!!
+2021-06-04 11:54:00 INFO  OutPut for Fourth HomeWork:19 - successfully launched chrome browser
+2021-06-04 11:54:05 INFO  OutPut for Fourth HomeWork:33 - successfully navigated
+2021-06-04 11:54:07 INFO  OutPut for Fourth HomeWork:47 - user name entered
+2021-06-04 11:54:07 INFO  OutPut for Fourth HomeWork:49 - password entered
+2021-06-04 11:54:08 INFO  OutPut for Fourth HomeWork:51 - login button clicked successfully
+2021-06-04 11:54:12 INFO  OutPut for Fourth HomeWork:65 - Fly Window Minimized successfully
+2021-06-04 11:54:20 INFO  OutPut for Fourth HomeWork:90 - customer created successfully
+2021-06-04 11:54:42 INFO  OutPut for Fourth HomeWork:140 - customer deleted successfully
+2021-06-04 11:54:43 INFO  OutPut for Fourth HomeWork:155 - logout successfull
+2021-06-04 11:54:45 INFO  OutPut for Fourth HomeWork:170 - application closed successfully
+2021-06-04 11:54:45 INFO  OutPut for Fourth HomeWork:171 - The Execution of First HomeWork ends Here!!!!!
+2021-06-04 11:54:45 INFO  OutPut for Fourth HomeWork:172 - -------------------------------------------------
+2021-06-04 11:56:56 INFO  OutPut for Fourth HomeWork:16 - The Execution of Fourth HomeWork Starts Here!!!!!
+2021-06-04 11:56:59 INFO  OutPut for Fourth HomeWork:19 - successfully launched chrome browser
+2021-06-04 11:57:07 INFO  OutPut for Fourth HomeWork:33 - successfully navigated
+2021-06-04 11:57:09 INFO  OutPut for Fourth HomeWork:47 - user name entered
+2021-06-04 11:57:09 INFO  OutPut for Fourth HomeWork:49 - password entered
+2021-06-04 11:57:09 INFO  OutPut for Fourth HomeWork:51 - login button clicked successfully
+2021-06-04 11:57:13 INFO  OutPut for Fourth HomeWork:65 - Fly Window Minimized successfully
+2021-06-04 11:57:22 INFO  OutPut for Fourth HomeWork:90 - customer created successfully
+2021-06-04 11:57:44 INFO  OutPut for Fourth HomeWork:140 - customer deleted successfully
+2021-06-04 11:57:45 INFO  OutPut for Fourth HomeWork:155 - logout successfull
+2021-06-04 11:57:46 INFO  OutPut for Fourth HomeWork:170 - application closed successfully
+2021-06-04 11:57:46 INFO  OutPut for Fourth HomeWork:171 - The Execution of First HomeWork ends Here!!!!!
+2021-06-04 11:57:46 INFO  OutPut for Fourth HomeWork:172 - -------------------------------------------------
+2021-06-04 12:52:41 INFO  Output For First HomeWork:19 - The Execution of First HomeWork Starts Here!!!!!
+2021-06-04 12:52:45 INFO  Output For First HomeWork:22 - successfully launched chrome browser
+2021-06-04 12:52:48 INFO  Output For First HomeWork:36 - successfully navigated
+2021-06-04 12:52:50 INFO  Output For First HomeWork:50 - user name entered
+2021-06-04 12:52:50 INFO  Output For First HomeWork:52 - password entered
+2021-06-04 12:52:50 INFO  Output For First HomeWork:54 - login button clicked successfully
+2021-06-04 12:52:54 INFO  Output For First HomeWork:68 - Fly Window Minimized successfully
+2021-06-04 12:53:07 INFO  Output For First HomeWork:99 - user created successfully
+2021-06-04 12:53:13 INFO  Output For First HomeWork:121 - user deleted successfully
+2021-06-04 12:53:13 INFO  Output For First HomeWork:136 - Logout successfull
+2021-06-04 12:53:15 INFO  Output For First HomeWork:151 - application closed successfully
+2021-06-04 12:53:15 INFO  Output For First HomeWork:152 - The Execution of First HomeWork ends Here!!!!!
+2021-06-04 12:53:15 INFO  Output for second HomeWork:19 - The Execution of second HomeWork Starts Here!!!!!
+2021-06-04 12:53:17 INFO  Output for second HomeWork:22 - Browser Lauched successfully
+2021-06-04 12:53:19 INFO  Output for second HomeWork:36 - navigated successfully
+2021-06-04 12:53:22 INFO  Output for second HomeWork:50 - username entered
+2021-06-04 12:53:22 INFO  Output for second HomeWork:52 - Password entered
+2021-06-04 12:53:22 INFO  Output for second HomeWork:54 - login button clicked successfull
+2021-06-04 12:53:26 INFO  Output for second HomeWork:68 - fly Window Minimized
+2021-06-04 12:53:36 INFO  Output for second HomeWork:99 - user created successfull
+2021-06-04 12:53:43 INFO  Output for second HomeWork:136 - user modified successfull
+2021-06-04 12:53:46 INFO  Output for second HomeWork:159 - user delted successfull
+2021-06-04 12:53:46 INFO  Output for second HomeWork:174 - logout successfull
+2021-06-04 12:53:47 INFO  Output for second HomeWork:189 - application closed successfull
+2021-06-04 12:53:47 INFO  Output for second HomeWork:190 - The Execution of second HomeWork ends Here!!!!!
+2021-06-04 12:53:47 INFO  Output for third HomeWork:18 - The Execution of Third HomeWork Starts Here!!!!!
+2021-06-04 12:53:49 INFO  Output for third HomeWork:21 - successfully launched chrome browser
+2021-06-04 12:53:52 INFO  Output for third HomeWork:35 - successfully navigated
+2021-06-04 12:53:54 INFO  Output for third HomeWork:49 - user name entered
+2021-06-04 12:53:54 INFO  Output for third HomeWork:51 - password entered
+2021-06-04 12:53:54 INFO  Output for third HomeWork:53 - login button clicked successfully
+2021-06-04 12:53:58 INFO  Output for third HomeWork:67 - Fly Window Minimized successfully
+2021-06-04 12:54:08 INFO  Output for third HomeWork:98 - user created successfully
+2021-06-04 12:54:18 INFO  Output for third HomeWork:134 - user modified successfully
+2021-06-04 12:54:23 INFO  Output for third HomeWork:157 - user deleted successfully
+2021-06-04 12:54:24 INFO  Output for third HomeWork:172 - Logout successfull
+2021-06-04 12:54:25 INFO  Output for third HomeWork:187 - application closed successfully
+2021-06-04 12:54:25 INFO  Output for third HomeWork:188 - The Execution of third HomeWork Starts Here!!!!!
+2021-06-04 12:54:25 INFO  Output for third HomeWork:189 - ---------------------------------------------------
+2021-06-04 12:54:25 INFO  OutPut for Fourth HomeWork:16 - The Execution of Fourth HomeWork Starts Here!!!!!
+2021-06-04 12:54:27 INFO  OutPut for Fourth HomeWork:19 - successfully launched chrome browser
+2021-06-04 12:54:29 INFO  OutPut for Fourth HomeWork:33 - successfully navigated
+2021-06-04 12:54:31 INFO  OutPut for Fourth HomeWork:47 - user name entered
+2021-06-04 12:54:31 INFO  OutPut for Fourth HomeWork:49 - password entered
+2021-06-04 12:54:32 INFO  OutPut for Fourth HomeWork:51 - login button clicked successfully
+2021-06-04 12:54:36 INFO  OutPut for Fourth HomeWork:65 - Fly Window Minimized successfully
+2021-06-04 12:54:44 INFO  OutPut for Fourth HomeWork:90 - customer created successfully
+2021-06-04 12:55:06 INFO  OutPut for Fourth HomeWork:140 - customer deleted successfully
+2021-06-04 12:55:07 INFO  OutPut for Fourth HomeWork:155 - logout successfull
+2021-06-04 12:55:08 INFO  OutPut for Fourth HomeWork:170 - application closed successfully
+2021-06-04 12:55:08 INFO  OutPut for Fourth HomeWork:171 - The Execution of First HomeWork ends Here!!!!!
+2021-06-04 12:55:08 INFO  OutPut for Fourth HomeWork:172 - -------------------------------------------------
+2021-06-04 16:48:34 INFO  Output For First HomeWork:19 - The Execution of First HomeWork Starts Here!!!!!
+2021-06-04 16:48:39 INFO  Output For First HomeWork:22 - successfully launched chrome browser
+2021-06-04 16:48:44 INFO  Output For First HomeWork:36 - successfully navigated
+2021-06-04 16:48:46 INFO  Output For First HomeWork:50 - user name entered
+2021-06-04 16:48:46 INFO  Output For First HomeWork:52 - password entered
+2021-06-04 16:48:46 INFO  Output For First HomeWork:54 - login button clicked successfully
+2021-06-04 16:48:50 INFO  Output For First HomeWork:68 - Fly Window Minimized successfully
+2021-06-04 16:49:04 INFO  Output For First HomeWork:99 - user created successfully
+2021-06-04 16:49:09 INFO  Output For First HomeWork:121 - user deleted successfully
+2021-06-04 16:49:11 INFO  Output For First HomeWork:151 - application closed successfully
+2021-06-04 16:49:11 INFO  Output For First HomeWork:152 - The Execution of First HomeWork ends Here!!!!!
+2021-06-04 16:49:11 INFO  Output for second HomeWork:19 - The Execution of second HomeWork Starts Here!!!!!
+2021-06-04 16:49:14 INFO  Output for second HomeWork:22 - Browser Lauched successfully
+2021-06-04 16:49:17 INFO  Output for second HomeWork:36 - navigated successfully
+2021-06-04 16:49:20 INFO  Output for second HomeWork:50 - username entered
+2021-06-04 16:49:20 INFO  Output for second HomeWork:52 - Password entered
+2021-06-04 16:49:20 INFO  Output for second HomeWork:54 - login button clicked successfull
+2021-06-04 16:49:24 INFO  Output for second HomeWork:68 - fly Window Minimized
+2021-06-04 16:49:34 INFO  Output for second HomeWork:99 - user created successfull
+2021-06-04 16:49:41 INFO  Output for second HomeWork:136 - user modified successfull
+2021-06-04 16:49:44 INFO  Output for second HomeWork:159 - user delted successfull
+2021-06-04 16:49:44 INFO  Output for second HomeWork:174 - logout successfull
+2021-06-04 16:49:45 INFO  Output for second HomeWork:189 - application closed successfull
+2021-06-04 16:49:45 INFO  Output for second HomeWork:190 - The Execution of second HomeWork ends Here!!!!!
+2021-06-04 16:49:45 INFO  Output for third HomeWork:18 - The Execution of Third HomeWork Starts Here!!!!!
+2021-06-04 16:49:47 INFO  Output for third HomeWork:21 - successfully launched chrome browser
+2021-06-04 16:49:50 INFO  Output for third HomeWork:35 - successfully navigated
+2021-06-04 16:49:52 INFO  Output for third HomeWork:49 - user name entered
+2021-06-04 16:49:53 INFO  Output for third HomeWork:51 - password entered
+2021-06-04 16:49:53 INFO  Output for third HomeWork:53 - login button clicked successfully
+2021-06-04 16:49:57 INFO  Output for third HomeWork:67 - Fly Window Minimized successfully
+2021-06-04 16:50:07 INFO  Output for third HomeWork:98 - user created successfully
+2021-06-04 16:50:16 INFO  Output for third HomeWork:134 - user modified successfully
+2021-06-04 16:50:21 INFO  Output for third HomeWork:157 - user deleted successfully
+2021-06-04 16:50:22 INFO  Output for third HomeWork:172 - Logout successfull
+2021-06-04 16:50:23 INFO  Output for third HomeWork:187 - application closed successfully
+2021-06-04 16:50:23 INFO  Output for third HomeWork:188 - The Execution of third HomeWork Starts Here!!!!!
+2021-06-04 16:50:23 INFO  Output for third HomeWork:189 - ---------------------------------------------------
+2021-06-04 16:50:23 INFO  OutPut for Fourth HomeWork:16 - The Execution of Fourth HomeWork Starts Here!!!!!
+2021-06-04 16:50:25 INFO  OutPut for Fourth HomeWork:19 - successfully launched chrome browser
+2021-06-04 16:50:29 INFO  OutPut for Fourth HomeWork:33 - successfully navigated
+2021-06-04 16:50:31 INFO  OutPut for Fourth HomeWork:47 - user name entered
+2021-06-04 16:50:31 INFO  OutPut for Fourth HomeWork:49 - password entered
+2021-06-04 16:50:31 INFO  OutPut for Fourth HomeWork:51 - login button clicked successfully
+2021-06-04 16:50:35 INFO  OutPut for Fourth HomeWork:65 - Fly Window Minimized successfully
+2021-06-04 16:50:44 INFO  OutPut for Fourth HomeWork:90 - customer created successfully
+2021-06-04 16:51:06 INFO  OutPut for Fourth HomeWork:140 - customer deleted successfully
+2021-06-04 16:51:06 INFO  OutPut for Fourth HomeWork:155 - logout successfull
+2021-06-04 16:51:07 INFO  OutPut for Fourth HomeWork:170 - application closed successfully
+2021-06-04 16:51:07 INFO  OutPut for Fourth HomeWork:171 - The Execution of First HomeWork ends Here!!!!!
+2021-06-04 16:51:07 INFO  OutPut for Fourth HomeWork:172 - -------------------------------------------------
+2021-06-04 17:20:41 INFO  Output For First HomeWork:19 - The Execution of First HomeWork Starts Here!!!!!
+2021-06-04 17:20:48 INFO  Output For First HomeWork:22 - successfully launched chrome browser
+2021-06-04 17:20:52 INFO  Output For First HomeWork:36 - successfully navigated
+2021-06-04 17:20:54 INFO  Output For First HomeWork:50 - user name entered
+2021-06-04 17:20:55 INFO  Output For First HomeWork:52 - password entered
+2021-06-04 17:20:55 INFO  Output For First HomeWork:54 - login button clicked successfully
+2021-06-04 17:20:59 INFO  Output For First HomeWork:68 - Fly Window Minimized successfully
+2021-06-04 17:21:17 INFO  Output For First HomeWork:151 - application closed successfully
+2021-06-04 17:21:17 INFO  Output For First HomeWork:152 - The Execution of First HomeWork ends Here!!!!!
+2021-06-04 17:21:32 INFO  Output For First HomeWork:19 - The Execution of First HomeWork Starts Here!!!!!
+2021-06-04 17:21:37 INFO  Output For First HomeWork:22 - successfully launched chrome browser
+2021-06-04 17:21:44 INFO  Output For First HomeWork:36 - successfully navigated
+2021-06-04 17:21:46 INFO  Output For First HomeWork:50 - user name entered
+2021-06-04 17:21:47 INFO  Output For First HomeWork:52 - password entered
+2021-06-04 17:21:47 INFO  Output For First HomeWork:54 - login button clicked successfully
+2021-06-04 17:21:51 INFO  Output For First HomeWork:68 - Fly Window Minimized successfully
+2021-06-04 17:22:06 INFO  Output For First HomeWork:99 - user created successfully
+2021-06-04 17:22:12 INFO  Output For First HomeWork:121 - user deleted successfully
+2021-06-04 17:22:15 INFO  Output For First HomeWork:151 - application closed successfully
+2021-06-04 17:22:15 INFO  Output For First HomeWork:152 - The Execution of First HomeWork ends Here!!!!!
+2021-06-04 17:27:01 INFO  Output For First HomeWork:19 - The Execution of First HomeWork Starts Here!!!!!
+2021-06-04 17:27:11 INFO  Output For First HomeWork:22 - successfully launched chrome browser
+2021-06-04 17:27:15 INFO  Output For First HomeWork:36 - successfully navigated
+2021-06-04 17:27:19 INFO  Output For First HomeWork:50 - user name entered
+2021-06-04 17:27:19 INFO  Output For First HomeWork:52 - password entered
+2021-06-04 17:27:19 INFO  Output For First HomeWork:54 - login button clicked successfully
+2021-06-04 17:27:24 INFO  Output For First HomeWork:68 - Fly Window Minimized successfully
+2021-06-04 17:27:37 INFO  Output For First HomeWork:99 - user created successfully
+2021-06-04 17:27:43 INFO  Output For First HomeWork:121 - user deleted successfully
+2021-06-04 17:27:46 INFO  Output For First HomeWork:151 - application closed successfully
+2021-06-04 17:27:46 INFO  Output For First HomeWork:152 - The Execution of First HomeWork ends Here!!!!!
+2021-06-04 17:32:43 INFO  Output for second HomeWork:19 - The Execution of second HomeWork Starts Here!!!!!
+2021-06-04 17:32:47 INFO  Output for second HomeWork:22 - Browser Lauched successfully
+2021-06-04 17:32:52 INFO  Output for second HomeWork:36 - navigated successfully
+2021-06-04 17:32:54 INFO  Output for second HomeWork:50 - username entered
+2021-06-04 17:32:54 INFO  Output for second HomeWork:52 - Password entered
+2021-06-04 17:32:55 INFO  Output for second HomeWork:54 - login button clicked successfull
+2021-06-04 17:32:59 INFO  Output for second HomeWork:68 - fly Window Minimized
+2021-06-04 17:33:09 INFO  Output for second HomeWork:99 - user created successfull
+2021-06-04 17:33:16 INFO  Output for second HomeWork:136 - user modified successfull
+2021-06-04 17:33:21 INFO  Output for second HomeWork:189 - application closed successfull
+2021-06-04 17:33:21 INFO  Output for second HomeWork:190 - The Execution of second HomeWork ends Here!!!!!
+2021-06-04 17:34:25 INFO  Output for second HomeWork:19 - The Execution of second HomeWork Starts Here!!!!!
+2021-06-04 17:34:31 INFO  Output for second HomeWork:22 - Browser Lauched successfully
+2021-06-04 17:34:34 INFO  Output for second HomeWork:36 - navigated successfully
+2021-06-04 17:34:36 INFO  Output for second HomeWork:50 - username entered
+2021-06-04 17:34:36 INFO  Output for second HomeWork:52 - Password entered
+2021-06-04 17:34:36 INFO  Output for second HomeWork:54 - login button clicked successfull
+2021-06-04 17:34:41 INFO  Output for second HomeWork:68 - fly Window Minimized
+2021-06-04 17:34:51 INFO  Output for second HomeWork:99 - user created successfull
+2021-06-04 17:34:58 INFO  Output for second HomeWork:136 - user modified successfull
+2021-06-04 17:35:05 INFO  Output for second HomeWork:189 - application closed successfull
+2021-06-04 17:35:05 INFO  Output for second HomeWork:190 - The Execution of second HomeWork ends Here!!!!!
+2021-06-04 17:37:16 INFO  Output for third HomeWork:18 - The Execution of Third HomeWork Starts Here!!!!!
+2021-06-04 17:37:20 INFO  Output for third HomeWork:21 - successfully launched chrome browser
+2021-06-04 17:37:26 INFO  Output for third HomeWork:35 - successfully navigated
+2021-06-04 17:37:28 INFO  Output for third HomeWork:49 - user name entered
+2021-06-04 17:37:28 INFO  Output for third HomeWork:51 - password entered
+2021-06-04 17:37:29 INFO  Output for third HomeWork:53 - login button clicked successfully
+2021-06-04 17:37:33 INFO  Output for third HomeWork:67 - Fly Window Minimized successfully
+2021-06-04 17:37:45 INFO  Output for third HomeWork:98 - user created successfully
+2021-06-04 17:37:49 INFO  Output for third HomeWork:187 - application closed successfully
+2021-06-04 17:37:49 INFO  Output for third HomeWork:188 - The Execution of third HomeWork Starts Here!!!!!
+2021-06-04 17:37:49 INFO  Output for third HomeWork:189 - ---------------------------------------------------
+2021-06-04 17:39:01 INFO  OutPut for Fourth HomeWork:16 - The Execution of Fourth HomeWork Starts Here!!!!!
+2021-06-04 17:39:05 INFO  OutPut for Fourth HomeWork:19 - successfully launched chrome browser
+2021-06-04 17:39:09 INFO  OutPut for Fourth HomeWork:33 - successfully navigated
+2021-06-04 17:39:11 INFO  OutPut for Fourth HomeWork:47 - user name entered
+2021-06-04 17:39:11 INFO  OutPut for Fourth HomeWork:49 - password entered
+2021-06-04 17:39:11 INFO  OutPut for Fourth HomeWork:51 - login button clicked successfully
+2021-06-04 17:39:15 INFO  OutPut for Fourth HomeWork:65 - Fly Window Minimized successfully
+2021-06-04 17:39:27 INFO  OutPut for Fourth HomeWork:90 - customer created successfully
+2021-06-04 17:39:49 INFO  OutPut for Fourth HomeWork:140 - customer deleted successfully
+2021-06-04 17:39:51 INFO  OutPut for Fourth HomeWork:155 - logout successfull
+2021-06-04 17:39:52 INFO  OutPut for Fourth HomeWork:170 - application closed successfully
+2021-06-04 17:39:52 INFO  OutPut for Fourth HomeWork:171 - The Execution of First HomeWork ends Here!!!!!
+2021-06-04 17:39:52 INFO  OutPut for Fourth HomeWork:172 - -------------------------------------------------
+2021-06-05 17:52:08 INFO  Home Work1:18 - The Execution Program Starts Here!!!!!
+2021-06-05 17:52:08 INFO  Home Work1:20 - WebBrowser opens Successfully!!!!!

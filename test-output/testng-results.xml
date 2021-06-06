@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4507" started-at="2021-06-05T17:52:08 IST" finished-at="2021-06-05T17:52:12 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4507" started-at="2021-06-05T17:52:08 IST" finished-at="2021-06-05T17:52:12 IST">
+      <class name="com.sk.log4jassignment.HomeWork1">
+        <test-method status="PASS" signature="LaunchBrowser()[pri:1, instance:com.sk.log4jassignment.HomeWork1@46daef40]" name="LaunchBrowser" duration-ms="288" started-at="2021-06-05T17:52:08 IST" finished-at="2021-06-05T17:52:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBrowser -->
+        <test-method status="PASS" signature="navigate()[pri:2, instance:com.sk.log4jassignment.HomeWork1@46daef40]" name="navigate" duration-ms="4" started-at="2021-06-05T17:52:08 IST" finished-at="2021-06-05T17:52:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate -->
+        <test-method status="PASS" signature="login(java.lang.String,java.lang.String)[pri:3, instance:com.sk.log4jassignment.HomeWork1@46daef40]" name="login" duration-ms="37" started-at="2021-06-05T17:52:08 IST" data-provider="getLoginCredentials" finished-at="2021-06-05T17:52:08 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[manager]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="CreateUser()[pri:4, instance:com.sk.log4jassignment.HomeWork1@46daef40]" name="CreateUser" duration-ms="3" started-at="2021-06-05T17:52:08 IST" finished-at="2021-06-05T17:52:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateUser -->
+        <test-method status="PASS" signature="DeleteUser()[pri:5, instance:com.sk.log4jassignment.HomeWork1@46daef40]" name="DeleteUser" duration-ms="2018" started-at="2021-06-05T17:52:08 IST" finished-at="2021-06-05T17:52:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteUser -->
+        <test-method status="PASS" signature="logout()[pri:6, instance:com.sk.log4jassignment.HomeWork1@46daef40]" name="logout" duration-ms="2032" started-at="2021-06-05T17:52:10 IST" finished-at="2021-06-05T17:52:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="closeApplication()[pri:7, instance:com.sk.log4jassignment.HomeWork1@46daef40]" name="closeApplication" duration-ms="16" started-at="2021-06-05T17:52:12 IST" finished-at="2021-06-05T17:52:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- com.sk.log4jassignment.HomeWork1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

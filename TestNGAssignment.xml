@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Automation">
+  <test name="Scenarios">
+     <classes>
+         <class name="com.sk.testngassignment.HomeWork1"></class>
+         <class name="com.sk.testngassignment.HomeWork2"></class>
+         <class name="com.sk.testngassignment.HomeWork3"></class>
+         <class name="com.sk.testngassignment.HomeWork4"></class>
+         <class name="com.sk.testngassignment.HomeWork5"></class>
+         <class name="com.sk.testngassignment.HomeWork6"></class>
+         <class name="com.sk.testngassignment.HomeWork7"></class>
+         <class name="com.sk.testngassignment.HomeWork8"></class>
+         <class name="com.sk.testngassignment.HomeWork9"></class>
+     </classes>
+  </test>
+</suite>
